@@ -2,9 +2,13 @@
 NAME-Ankit kuamr singh
 
 COMPANY-CODETECH IT SOLUTIONS
+
 ID-CT04DS5754
+
 DOMAIN-PYTHON PROGRAMMING
+
 DURATION-JULY TO AUGUST 2024
+
 MENTOR-Muzammil Ahmed
 
 OVERVIEW OF THE PROJECT
@@ -16,6 +20,7 @@ Features
 User Input:
 
 Prompt the user to enter two numerical values.
+
 Allow the user to select an arithmetic operation from a predefined list.
 
 Operations Supported:
@@ -31,4 +36,5 @@ Division: Divides the first number by the second. Includes handling for division
 Error Handling:
 
 Ensure that user inputs are valid numerical values.
+
 Handle division by zero gracefully.
